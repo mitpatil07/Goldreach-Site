@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "outputDirectory": "mirror",
+  "outputDirectory": "goldreach",
   "rewrites": [
     { "source": "/(.*)", "destination": "/$1" }
   ]
