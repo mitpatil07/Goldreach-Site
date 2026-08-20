@@ -1,0 +1,211 @@
+{
+  "base": "http://127.0.0.1:8081",
+  "offline": true,
+  "run_at": "2026-08-07T20:07:30Z",
+  "routes": {
+    "/@1440x900": {
+      "status": 200,
+      "console_errors": [],
+      "not_found": [],
+      "external": [],
+      "media": [
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/goldreach-short-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/goldreach-short-2.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/11-3-optimized.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/amazon-riddles-optimized.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/dr-medhat-01.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/good-4.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/image-showcase-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/ninad-hg-240p.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/om-hg-240p.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/pointers-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/pointers-2.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/tina-hg-240p.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/hager-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/intense-warm.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/softwarm.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/v1-optimized.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/goldreach-short-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/goldreach-short-2.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/11-3-optimized.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/amazon-riddles-optimized.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/dr-medhat-01.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/good-4.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/image-showcase-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/ninad-hg-240p.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/om-hg-240p.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/pointers-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/pointers-2.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/tina-hg-240p.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/hager-1.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/intense-warm.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/softwarm.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        },
+        {
+          "src": "http://127.0.0.1:8081/assets/clips/v1-optimized.mp4",
+          "readyState": 4,
+          "canPlay": true,
+          "canSeek": true
+        }
+      ],
+      "webgl": "no-canvas",
+      "screenshot": "evidence/final-offline/offline_home_1440x900.png",
+      "passed": true,
+      "unexpected_external": []
+    }
+  }
+}

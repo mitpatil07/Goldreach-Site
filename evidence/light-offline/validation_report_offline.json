@@ -1,0 +1,18 @@
+{
+  "base": "http://127.0.0.1:8081",
+  "offline": true,
+  "run_at": "2026-08-06T14:05:58Z",
+  "routes": {
+    "/@1440x900": {
+      "status": 200,
+      "console_errors": [],
+      "not_found": [],
+      "external": [],
+      "media": [],
+      "webgl": "no-canvas",
+      "screenshot": "evidence/light-offline/offline_home_1440x900.png",
+      "passed": true,
+      "unexpected_external": []
+    }
+  }
+}
